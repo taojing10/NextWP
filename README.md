@@ -1,2 +1,5 @@
 # NextWP
-typecho next for wordpress
+
+这个原先是typecho上的主题，之前看到不少人在使用，自己也非常喜欢，这周末有空就做了移植。希望大家喜欢。
+
+移植的比较粗，还有很多完善空间。由于自己博客也在使用，所以应该会不定期更新。会在我博客和git尚发布：[https://blog.jing.do/5945](https://blog.jing.do/5945)
