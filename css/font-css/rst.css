@@ -1,0 +1,28 @@
+@font-face {
+    font-family:rst;
+    src:url('/wp-content/themes/wex-next/fonts/family/rst.ttf');
+}
+html {
+    font-family:rst,sans-serif;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.brand,
+.posts-collapse .post-title{
+    font-family: rst,Lato, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+
+/*代码段不加特殊字体*/
+code,
+kbd,
+pre,
+samp,
+.gist .gist-file {
+    font-family: "Input Mono", "PT Mono", Consolas, Monaco, Menlo, monospace;
+}
